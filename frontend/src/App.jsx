@@ -8,8 +8,7 @@ function App() {
       <header>
         <h1>Enterprise Knowledge Assistant</h1>
         <p>
-          Upload your documents and ask questions using Retrieval-Augmented
-          Generation (RAG) powered by Gemini AI.
+          Upload your documents and ask questions.
         </p>
       </header>
 
