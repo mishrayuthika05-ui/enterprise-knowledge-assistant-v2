@@ -191,11 +191,10 @@ VITE_API_URL=http://127.0.0.1:8000/api/v1
 ### Home Page
 ![Home Page](https://github.com/mishrayuthika05-ui/enterprise-knowledge-assistant-v2/blob/main/Screenshot%202026-07-15%20103703.png?raw=true)
 
-### Home Page
-![Home Page](https://github.com/mishrayuthika05-ui/enterprise-knowledge-assistant-v2/blob/main/Screenshot%202026-07-15%20103852.png?raw=true)
+
 
 ### Document Upload
-![Upload Document](./screenshots/upload.png)
+![Upload Document](https://github.com/mishrayuthika05-ui/enterprise-knowledge-assistant-v2/blob/main/Screenshot%202026-07-15%20103852.png?raw=true)
 
 ### Question Answering
 ![Question Answering](./screenshots/qa.png)
