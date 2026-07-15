@@ -188,14 +188,31 @@ VITE_API_URL=http://127.0.0.1:8000/api/v1
 
 ## Screenshots
 
-Add screenshots here after deployment.
+### Home Page
+![Home Page](## Screenshots
 
-- Home Page
-- Upload Document
-- Question Answering
-- Successful Response
+### Home Page
+![Home Page](./screenshots/homepage.png)
 
----
+### Document Upload
+![Upload Document](./screenshots/upload.png)
+
+### Question Answering
+![Question Answering](./screenshots/qa.png)
+
+### Successful Response
+![Successful Response](./screenshots/response.png))
+
+### Document Upload
+![Upload Document](./screenshots/upload.png)
+
+### Question Answering
+![Question Answering](./screenshots/qa.png)
+
+### Successful Response
+![Successful Response](./screenshots/response.png)
+
+
 
 ## Author
 
